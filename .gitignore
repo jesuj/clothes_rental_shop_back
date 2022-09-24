@@ -1,3 +1,8 @@
+# project
+/postgres
+.env
+
+
 # compiled output
 /dist
 /node_modules

@@ -15,6 +15,11 @@
 $ yarn install
 ```
 
+## Running the BD
+```bash
+$ docker compose up -d
+```
+
 ## Running the app
 
 ```bash
